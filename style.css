@@ -1,3 +1,31 @@
 body {
+nav {
+  list-style-type: none;
+  background-color: blue;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 8px;
+  color: white;
+  text-align: center;
+  
+  
+}
 
+li {
+  display: inline;
+  padding: 30px;
+}
+li:hover{
+  background-color: black;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+
+  
 }
