@@ -11,11 +11,6 @@ nav {
   text-align: center;
 
 }
-
-  data{
-  color: white; 
-    font-size: 50px;
-}
   
 li {
   display: inline;
@@ -31,5 +26,9 @@ a{
 }
 
 
+  data{
+  color: white; 
+    font-size: 50px;
+}
   
 }
